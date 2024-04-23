@@ -15,5 +15,5 @@ spec:
         app: sangay-deploy
     spec:
       containers:
-      - image: sangayp/takin:latest
+      - image: sangayp/takin:23
         name: pet
